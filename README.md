@@ -44,32 +44,32 @@
 
 ## 📊 Visualizations & Insights  
 
-### 1. Movies vs TV Shows  
+### 1. 🎬 Movies vs TV Shows  
 ![Movies vs TV Shows](visualizations/movies_vs_tvshows.png)  
 - Movies dominate Netflix’s catalog (~70%), while TV Shows are ~30%.  
 - This shows Netflix prioritizes films, but TV content is also significant.  
 
-### 2. Yearly Trend of Releases  
+### 2. 📈 Yearly Trend of Releases  
 ![Yearly Trend](visualizations/yearly_trend.png)  
 - Rapid growth after 2015, peaking in 2018–2019.  
 - Matches Netflix’s global expansion timeline.  
 
-### 3. Top 10 Countries by Titles  
+### 3. 🌍 Top 10 Countries by Titles  
 ![Top Countries](visualizations/top_countries.png)  
 - US leads with the largest catalog, followed by India and the UK.  
 - India is Netflix’s second-largest market after the US.  
 
-### 4. Top 15 Genres  
+### 4. 🎭 Top 15 Genres  
 ![Top Genres](visualizations/top_genres.png)  
 - *International Movies*, *Dramas*, and *Comedies* dominate.  
 - Shows Netflix balances both entertainment and informative content.  
 
-### 5. Most Common Ratings  
+### 5. 🔢 Most Common Ratings  
 ![Ratings](visualizations/ratings.png)  
 - TV-MA and TV-14 dominate, showing focus on mature and teen audiences.  
 - Kids/family content exists but is much smaller.  
 
-### 6. Movie Duration Distribution  
+### 6. ⏱ Movie Duration Distribution  
 ![Durations](visualizations/durations.png)  
 - Most Netflix movies are between **90–120 minutes**.  
 - This aligns with standard global movie runtimes.  
