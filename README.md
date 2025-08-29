@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 - This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline using Databricks and PySpark.  
-- We work with the Netflix dataset to showcase how data is ingested, cleaned, transformed, and prepared for analytics using the **Bronze-Silver-Gold (Medallion) architecture** in Databricks.  
+- Work with the Netflix dataset to showcase how data is ingested, cleaned, transformed, and prepared for analytics using the **Bronze-Silver-Gold (Medallion) architecture** in Databricks.  
 
 ---
 
