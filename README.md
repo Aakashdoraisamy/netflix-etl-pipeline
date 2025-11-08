@@ -35,7 +35,7 @@
 ---
 
 ## 🛠️ Technologies Used  
-- Databricks (Free Community Edition)  
+- Databricks
 - Apache Spark / PySpark  
 - Delta Lake  
 - SQL (Databricks SQL for queries & analysis)  
