@@ -1,4 +1,3 @@
-<!--
 # 🎬 Netflix ETL with Databricks  
 
 ## 📌 Overview  
@@ -84,5 +83,3 @@
 - Strengthened data storytelling and analytical presentation skills.  
 
 ---
-
--->
